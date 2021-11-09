@@ -1,2 +1,3 @@
 # Cairo-Focus
-The source code is private for the client's confidentiality 
+ 
+![GIF-211109_211608](https://user-images.githubusercontent.com/84358773/140991404-e9328ec8-95ce-4455-8cc3-c686fce5e572.gif)
